@@ -1,4 +1,4 @@
-/** JavaScript on <canvas> dotflag. pmc/Retro
+/** JavaScript on <canvas> dotflag. pmc
   */
 
 //IIFE called from the associated HTML, see the <script> tag
